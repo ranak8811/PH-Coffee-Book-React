@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 ---
 
-Check out the web here (Netlify): https://ph-coffee-book.netlify.app/
+Check out the web here (Netlify): https://ph-coffee-book.netlify.app/  
 Check out the web here (Surge): https://flagrant-bat.surge.sh/
