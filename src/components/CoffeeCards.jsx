@@ -28,7 +28,7 @@ const CoffeeCards = () => {
         ))}
       </div>
 
-      <button className="btn btn-warning" onClick={() => navigate("/coffees")}>
+      <button className="btn btn-warning" onClick={() => navigate("/coffes")}>
         View All
       </button>
 

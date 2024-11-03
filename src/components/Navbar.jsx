@@ -66,7 +66,7 @@ const Navbar = () => {
             Home
           </NavLink>
           <NavLink
-            to={"/coffees"}
+            to={"/coffes"}
             className={({ isActive }) =>
               `font-bold ${isActive ? "text-warning" : "hover:text-warning"}`
             }
